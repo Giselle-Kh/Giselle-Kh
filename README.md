@@ -7,11 +7,17 @@ I work with Linux-based systems and cloud-hosted environments, with a strong foc
 🔧 Core Skills
 
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?logo=linux&logoColor=white)
+
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white)
+
 ![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?logo=docker&logoColor=white)
+
 ![CI/CD](https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+
 ![DevOps](https://img.shields.io/badge/DevOps-Operations-blue)
+
 ![Git](https://img.shields.io/badge/Git-Version_Control-F05032?logo=git&logoColor=white)
+
 ![GitHub](https://img.shields.io/badge/GitHub-Platform-181717?logo=github&logoColor=white)
 
 Operating Systems: Linux (Ubuntu)
