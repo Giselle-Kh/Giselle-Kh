@@ -5,6 +5,7 @@ Web & Systems Administrator | DevOps-focused
 I work with Linux-based systems and cloud-hosted environments, with a strong focus on automation, reliability, and deployment workflows. I’m actively transitioning deeper into DevOps, building hands-on projects around cloud infrastructure, CI/CD, and operational efficiency.
 
 🔧 Core Skills
+
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?logo=linux&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?logo=docker&logoColor=white)
