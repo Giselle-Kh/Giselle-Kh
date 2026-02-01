@@ -1,16 +1,54 @@
-## Hi there 👋
+**Hi 👋 I’m Ghazaleh**
+Web & Systems Administrator | DevOps-focused
 
-<!--
-**Giselle-Kh/Giselle-Kh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work with Linux-based systems and cloud-hosted environments, with a strong focus on automation, reliability, and deployment workflows. I’m actively transitioning deeper into DevOps, building hands-on projects around cloud infrastructure, CI/CD, and operational efficiency.
 
-Here are some ideas to get you started:
+🔧 Core Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Operating Systems: Linux (Ubuntu)
+
+Cloud: AWS (EC2, S3, IAM, basic networking)
+
+DevOps & Ops: CI/CD fundamentals, deployment workflows, monitoring basics
+
+Containers: Docker
+
+Automation & Scripting: Bash
+
+Web & Infrastructure: DNS, SSL/TLS, backups, Linux hosting, WordPress
+
+Version Control: Git, GitHub
+
+🚀 What I’m Working On
+
+Automating deployments and system maintenance tasks
+
+Building CI/CD pipelines using GitHub Actions
+
+Dockerizing applications and deploying them on AWS
+
+Improving reliability and reducing manual operational work through scripting
+
+📂 Featured Projects
+
+CI/CD Pipeline Project – Automated build and deployment using GitHub Actions
+
+Dockerized Web Application – Containerized app deployed on AWS EC2
+
+Infrastructure Automation – Bash scripts for backups, updates, and file management
+
+(Each project includes clear documentation and reproducible steps.)
+
+🎯 Current Focus
+
+DevOps best practices
+
+Cloud infrastructure automation
+
+Monitoring, logging, and reliability fundamentals
+
+🤝 Let’s Connect
+
+I’m open to DevOps, Cloud, and Systems-focused roles and always interested in learning from real-world infrastructure challenges.
+
+Thanks for stopping by!
